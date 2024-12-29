@@ -2,7 +2,7 @@
 > FullStack Developer.    
 
 > IT Systems Analyst.
-## About me...
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -15,14 +15,21 @@ const aboutMe = {
       backEnd: {
          java: ["Spring","Eclipse","Intellij IDEA"],
          python: ["Django", "Flask"],
+         dessign_patterns: ["Singleton"],
       },
       databases: ["PostgreSQL", "mySQL""],
-      other : ["Docker", "VStudioCode", "PostMan", "Insomnia"],
       operating_system : ["Windows", "Linux"]
+      architecture: ["Single page applications"],
+      other : ["Docker", "VStudioCode", "PostMan", "Insomnia"],
    },
    currentOccupation: "..currently studying Computer Science Engineering,but, i'm available for job opportunities",
    challenge: "I'm working towards being able to run a marathon.",
 };
+
+```
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FreddyAlx1998Mora12" alt="reisub0" /> 
+</p>
 
 <!--
 **FreddyAlx1998Mora12/FreddyAlx1998Mora12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
