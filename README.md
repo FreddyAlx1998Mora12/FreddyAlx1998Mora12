@@ -1,7 +1,7 @@
 ## Hi, I'm Freddy 👋
-> FullStack Developer.    
+> 👨‍💻​ FullStack Developer.    
 
-> IT Systems Analyst.
+> ⛓️​ IT Systems Analyst.
 
 ```javascript
 const aboutMe = {
@@ -27,10 +27,13 @@ const aboutMe = {
 };
 
 ```
+---
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreddyAlx1998Mora12" alt="reisub0" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=FreddyAlx1998Mora12" alt="FreddyGithubs" /> 
 </p>
-
+<p align="right">
+  <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</p>
 <!--
 **FreddyAlx1998Mora12/FreddyAlx1998Mora12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
