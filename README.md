@@ -26,7 +26,7 @@ const aboutMe = {
       other : ["Docker", "VStudioCode", "PostMan", "Insomnia"],
    },
    currentOccupation: "..currently studying Computer Science Engineering,but, i'm available for job opportunities",
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "I am working daily to improve myself, to be a better person, and a better developer.",
 };
 
 ```
@@ -38,19 +38,24 @@ const aboutMe = {
   <img src="https://github-readme-stats.vercel.app/api?username=FreddyAlx1998Mora12&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy" alt="FreddyGithubs" /> 
 </p>
 
-## 🔥​ More Skill Language & Tools 💻
+## 🔥​ Libraries, programming languages, and tools with which i'm familiar 💻.
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,django,postgres,git,vscode,docker,postman,windows,linux,mysql,angular,flask,spring,bootstrap,tailwind&perline=10"  />
+</p>
 
+<!--
 ## 🌱 Mi proceso de aprendizaje
 Actualmente estoy aprendiendo:
 - Nuevas funcionalidades en React
 - Desarrollo de APIs RESTful con Node.js
+-->
 
-## 📫 Contáctame
+## 📫 Contact Me
 - Email: freddyalexander998@gmail.com
 - LinkedIn: 
 
-## ✨ Un poco más sobre mí
-- Aficiones: Leer codigo, me gusta realizar actividades fisicas (como jugar futbol, tocar guitarra, natacion), escuchar música, y sobre todo, nunca dejar de aprender nuevas tecnologias.
+## ✨ A little more about me.
+- My hobbies include reading code, engaging in physical activities (such as playing soccer, playing guitar, and swimming), listening to music, and above all, continuously learning new technologies.
 
 
 <!--
