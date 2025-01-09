@@ -33,7 +33,7 @@ const aboutMe = {
 ## 📊​ GitHubs Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyAlx1998Mora12&layout=compact" alt="My Github Stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyAlx1998Mora12&layout=compact&count_private=true&include_all_commits=true" alt="My Github Stats">
     &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=FreddyAlx1998Mora12&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy" alt="FreddyGithubs" /> 
 </p>
